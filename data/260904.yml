@@ -1,26 +1,28 @@
 about:
-  description: 
+  description:
+  |
+    
   license: MIT
   homepage: 
   head: 6b3f4b8
   archived: false
   latestVersion: 
-  collectedAt: 2026-09-04T04:56:59Z
+  collectedAt: 2026-09-04T19:51:37Z
 timeline:
   created: 2025-10-25
   lastCommit: 2026-05-27
-  lastRelease: ?
+  lastRelease: 
 popularity:
-  star: 7764
+  star: 7771
   watcher: 74
   fork: 1389
   release: 0
   contributor: 8
-  pullRequest: 14
+  pullRequest: 27
   issue: 115
 language:
   Python: 523907
-totalLine: 523907
+totalBytes: 523907
 recent:
   last30d:
     since: 2026-08-05
@@ -29,6 +31,14 @@ recent:
     openPR: 0
     closedIssue: 0
     openIssue: 5
+    commit: 0
+  last60d:
+    since: 2026-07-06
+    release: 0
+    mergedPR: 0
+    openPR: 3
+    closedIssue: 0
+    openIssue: 6
     commit: 0
   last90d:
     since: 2026-06-06
@@ -54,3 +64,21 @@ recent:
     closedIssue: 48
     openIssue: 67
     commit: 49
+  last720d:
+    since: 2024-09-14
+    release: 0
+    mergedPR: 13
+    openPR: 11
+    closedIssue: 48
+    openIssue: 67
+    commit: 63
+total:
+  release: 0
+  mergedPR: 13
+  openPR: 11
+  closedIssue: 48
+  openIssue: 67
+  commit: 63
+---
+---
+
