@@ -7,7 +7,7 @@
 - **Latest release**: `` (n/a)
 - **Last commit**: 2026-05-27
 - **License**: MIT
-- **Stars**: 7822 · **Forks**: 1401 · **Open issues**: 115 · **Contributors**: 8
+- **Stars**: 7827 · **Forks**: 1399 · **Open issues**: 115 · **Contributors**: 8
 
 ## Installation
 
@@ -21,4 +21,4 @@ See <https://x-cmd.com/install/LongCat-Video> for details.
 
 This mirror is auto-maintained by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action). Latest card snapshot: `data/card/260909.yml`. Merged card+release view: `data/latest.report.yml`.
 
-_Last regenerated: 2026-09-09T05:05:30Z._
+_Last regenerated: 2026-09-09T19:16:19Z._
