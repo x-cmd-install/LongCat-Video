@@ -2,7 +2,7 @@
 
 [English version](./README.md)
 
-![LongCat-Video](https://repo.x-cmd.io/LongCat-Video.svg)
+![LongCat-Video](https://repo.x-cmd.io/LongCat-Video.svg?lang=zh)
 
 ## 安装
 
@@ -17,7 +17,7 @@ x install LongCat-Video
 
 ## 流行度
 
-- **Star**: 7,830 · **Fork**: 1,400 · **开放 issue**: 115 · **贡献者**: 8
+- **Star**: 7,835 · **Fork**: 1,401 · **开放 issue**: 115 · **贡献者**: 8
 
 ## 累计统计
 
@@ -52,4 +52,4 @@ LongCat-Video 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/ins
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:09:29Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:56:00Z._
