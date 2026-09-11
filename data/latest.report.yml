@@ -7,7 +7,7 @@ about:
   latestVersion: ""
   latestRelease: ""
   latestPrerelease: ""
-  collectedAt: 2026-09-11T00:12:20Z
+  collectedAt: 2026-09-11T05:06:30Z
 timeline:
   created: 2025-10-25
   lastCommit: 2026-05-27
@@ -15,9 +15,9 @@ timeline:
   lastRelease: 
   lastPrerelease: 
 popularity:
-  star: 7836
+  star: 7840
   watcher: 78
-  fork: 1401
+  fork: 1402
   release: 0
   contributor: 8
   pullRequest: 27
@@ -83,7 +83,7 @@ total:
   commit: 63
 ---
 path: /home/runner/.x-repo/github.com/meituan-longcat/LongCat-Video
-collectedAt: 2026-09-11T00:13:01Z
+collectedAt: 2026-09-11T05:07:01Z
 loc:
   Python:
     code: 10339
