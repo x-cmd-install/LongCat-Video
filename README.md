@@ -29,7 +29,7 @@ Total: **10,449** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,836 · **Forks**: 1,401 · **Open issues**: 115 · **Contributors**: 8
+- **Stars**: 7,840 · **Forks**: 1,402 · **Open issues**: 115 · **Contributors**: 8
 
 ## Totals (cumulative)
 
@@ -55,4 +55,4 @@ Install metadata for LongCat-Video lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260911.yml` · 2026-09-11T00:13:08Z._
+_Snapshot: `data/card/260911.yml` · 2026-09-11T05:07:05Z._
