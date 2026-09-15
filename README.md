@@ -29,22 +29,22 @@ Total: **10,449** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 7,872 · **Forks**: 1,410 · **Open issues**: 115 · **Contributors**: 8
+- **Stars**: 7,974 · **Forks**: 1,425 · **Open issues**: 116 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 13 · **Open PRs**: 11 · **Closed issues**: 48 · **Open issues**: 67 · **Commits**: 63
+- **Releases**: 0 · **Merged PRs**: 13 · **Open PRs**: 11 · **Closed issues**: 48 · **Open issues**: 68 · **Commits**: 63
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-15 | 0 | 0 | 0 | 0 | 4 | 0 |
-| last60d | 2026-07-16 | 0 | 0 | 2 | 0 | 5 | 0 |
-| 90d | 2026-06-16 | 0 | 0 | 4 | 3 | 8 | 0 |
-| last180d | 2026-03-18 | 0 | 6 | 7 | 10 | 24 | 16 |
-| 360d | 2025-09-19 | 0 | 13 | 11 | 48 | 67 | 49 |
-| last720d | 2024-09-24 | 0 | 13 | 11 | 48 | 67 | 63 |
+| 30d | 2026-08-16 | 0 | 0 | 0 | 0 | 5 | 0 |
+| last60d | 2026-07-17 | 0 | 0 | 2 | 0 | 6 | 0 |
+| 90d | 2026-06-17 | 0 | 0 | 4 | 2 | 9 | 0 |
+| last180d | 2026-03-19 | 0 | 6 | 7 | 10 | 24 | 16 |
+| 360d | 2025-09-20 | 0 | 13 | 11 | 48 | 68 | 49 |
+| last720d | 2024-09-25 | 0 | 13 | 11 | 48 | 68 | 63 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for LongCat-Video lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260914.yml` · 2026-09-14T05:20:00Z._
+_Snapshot: `data/card/260915.yml` · 2026-09-15T05:28:23Z._
