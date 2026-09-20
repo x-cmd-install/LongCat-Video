@@ -2,7 +2,7 @@
 
 [中文版本](./README.cn.md)
 
-![LongCat-Video](https://repo.x-cmd.io/LongCat-Video.svg)
+[![x-cmd/install — LongCat-Video Code Quality Monitoring Repo Card](https://repo.x-cmd.io/LongCat-Video.svg)](https://x-cmd.com/install/LongCat-Video)
 
 ## Install
 
@@ -29,22 +29,22 @@ Total: **10,449** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 8,279 · **Forks**: 1,472 · **Open issues**: 116 · **Contributors**: 8
+- **Stars**: 8,334 · **Forks**: 1,485 · **Open issues**: 118 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 13 · **Open PRs**: 11 · **Closed issues**: 48 · **Open issues**: 68 · **Commits**: 63
+- **Releases**: 0 · **Merged PRs**: 13 · **Open PRs**: 11 · **Closed issues**: 49 · **Open issues**: 69 · **Commits**: 63
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 0 | 0 | 0 | 0 | 5 | 0 |
-| last60d | 2026-07-20 | 0 | 0 | 2 | 0 | 6 | 0 |
-| 90d | 2026-06-20 | 0 | 0 | 4 | 2 | 9 | 0 |
-| last180d | 2026-03-22 | 0 | 5 | 7 | 10 | 24 | 16 |
-| 360d | 2025-09-23 | 0 | 13 | 11 | 48 | 68 | 49 |
-| last720d | 2024-09-28 | 0 | 13 | 11 | 48 | 68 | 63 |
+| 30d | 2026-08-21 | 0 | 0 | 0 | 1 | 5 | 0 |
+| last60d | 2026-07-22 | 0 | 0 | 2 | 1 | 7 | 0 |
+| 90d | 2026-06-22 | 0 | 0 | 4 | 3 | 10 | 0 |
+| last180d | 2026-03-24 | 0 | 5 | 7 | 11 | 25 | 16 |
+| 360d | 2025-09-25 | 0 | 13 | 11 | 49 | 69 | 49 |
+| last720d | 2024-09-30 | 0 | 13 | 11 | 49 | 69 | 63 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for LongCat-Video lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T05:16:40Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T05:20:14Z._
