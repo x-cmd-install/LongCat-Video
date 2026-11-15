@@ -12,14 +12,14 @@ x install LongCat-Video
 
 ## Code insight
 
-Total: **10,449** lines of code across **44** files in the top 5 languages.
+Total: **11,099** lines of code across **46** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Python | 10,339 | 590 | 1,926 | 34 |
-| Svg | 81 | 0 | 0 | 4 |
+| Python | 10,988 | 589 | 1,992 | 35 |
+| Svg | 82 | 0 | 0 | 5 |
 | Json | 29 | 0 | 0 | 3 |
-| Markdown | 0 | 179 | 69 | 1 |
+| Markdown | 0 | 214 | 82 | 1 |
 | Text | 0 | 34 | 0 | 2 |
 
 ## Source
@@ -29,22 +29,22 @@ Total: **10,449** lines of code across **44** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 9,439 · **Forks**: 1,676 · **Open issues**: 126 · **Contributors**: 8
+- **Stars**: 9,453 · **Forks**: 1,679 · **Open issues**: 126 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 0 · **Merged PRs**: 13 · **Open PRs**: 13 · **Closed issues**: 52 · **Open issues**: 74 · **Commits**: 63
+- **Releases**: 0 · **Merged PRs**: 14 · **Open PRs**: 12 · **Closed issues**: 52 · **Open issues**: 74 · **Commits**: 67
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-15 | 0 | 0 | 1 | 1 | 5 | 0 |
-| last60d | 2026-09-15 | 0 | 0 | 2 | 4 | 6 | 0 |
-| 90d | 2026-08-16 | 0 | 0 | 2 | 4 | 11 | 0 |
-| last180d | 2026-05-18 | 0 | 1 | 9 | 10 | 28 | 10 |
-| 360d | 2025-11-19 | 0 | 12 | 13 | 25 | 62 | 31 |
-| last720d | 2024-11-24 | 0 | 13 | 13 | 52 | 74 | 63 |
+| 30d | 2026-10-16 | 0 | 1 | 0 | 1 | 5 | 2 |
+| last60d | 2026-09-16 | 0 | 1 | 1 | 4 | 6 | 3 |
+| 90d | 2026-08-17 | 0 | 1 | 1 | 4 | 11 | 3 |
+| last180d | 2026-05-19 | 0 | 2 | 8 | 10 | 28 | 4 |
+| 360d | 2025-11-20 | 0 | 13 | 12 | 25 | 62 | 34 |
+| last720d | 2024-11-25 | 0 | 14 | 12 | 52 | 74 | 67 |
 
 ## Improve this data
 
@@ -55,4 +55,4 @@ Install metadata for LongCat-Video lives in the [x-cmd/install](https://github.c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261114.yml` · 2026-11-14T06:55:22Z._
+_Snapshot: `data/card/261115.yml` · 2026-11-15T06:50:39Z._
